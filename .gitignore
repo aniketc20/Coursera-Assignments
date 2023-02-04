@@ -1,0 +1,4 @@
+# Ignore all text files
+*.class
+# Ignore Mac system files
+.DS_store
