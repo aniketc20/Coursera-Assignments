@@ -1,4 +1,12 @@
-# Ignore all text files
+# Ignore all class files
 *.class
 # Ignore Mac system files
 .DS_store
+# Ignore Mac system files
+*.zip
+# Ignore Mac system files
+*.iml
+# Ignore Mac system files
+*.png
+# Ignore Mac system files
+*.lift
